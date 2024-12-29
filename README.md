@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# Mystic Manuscript Quality Control Project
+# Mystic Manuscript Project
 
 ## Project 1 of the Digital Futures Academy
 
