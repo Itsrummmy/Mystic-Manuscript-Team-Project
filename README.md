@@ -22,8 +22,6 @@
     </li>
     <li>
       <a href="#conclusion">Conclusion</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -75,16 +73,5 @@ Additionally, I documented the entire process, providing detailed SQL code for t
 ## Conclusion
 
 This project highlights the critical role of data quality in data analytics. Through systematic processes and the application of SQL techniques, we prepared a robust dataset for Mystic Manuscripts to use for further analysis.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Katrina Booth: katrinalilybooth@gmail.com
-
-Project Link: [https://github.com/KatrinaBooth/Mystic-Manuscript-Quality-Control](https://github.com/KatrinaBooth/Mystic-Manuscript-Quality-Control)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
