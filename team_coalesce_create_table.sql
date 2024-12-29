@@ -1,0 +1,42 @@
+CREATE TABLE mystic_manuscript.team_coalesce(
+	id INT,
+	purchase_date VARCHAR(26),
+	date VARCHAR(11),
+	time VARCHAR(9),
+	quarter_year VARCHAR(10),
+	quarter INT,
+	year INT,
+	month INT,
+	day INT,
+	special_day INT,
+	online_sale_offer INT,
+	day_of_week INT,
+	weekend INT,
+	morning INT,
+	afternoon INT,
+	evening INT,
+	night INT,
+	gender_id INT,
+	customer_id VARCHAR(11),
+	gender VARCHAR(1),
+	product_name TEXT,
+	item_status VARCHAR(25),
+	quantity INT,
+	currency VARCHAR(25),
+	item_price INT,
+	shipping_price INT,
+	ship_city VARCHAR(50),
+	ship_state VARCHAR(50),
+	ship_postal_code VARCHAR(10),
+	category VARCHAR(15),
+	total_amount INT,
+	author VARCHAR(100),
+	publication VARCHAR(100),
+	profit_perc INT,
+	profit_inr NUMERIC,
+	cost NUMERIC
+);
+
+GRANT SELECT ON mystic_manuscript.team_coalesce TO de11_meki;
+GRANT SELECT ON mystic_manuscript.team_coalesce TO da11_olaj;
+GRANT SELECT ON mystic_manuscript.team_coalesce TO github_classroom;
