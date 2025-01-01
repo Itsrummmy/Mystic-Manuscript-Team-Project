@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">Project Overview</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
@@ -27,8 +27,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- PROJECT OVERVIEW -->
+## Project Overview
 
 This project is the final assignment for the Technology Essentials module at Digital Futures Academy. Over 1.5 days, I successfully imported a dataset from Mystic Manuscripts into an SQL database, ensuring a solid foundation for further analysis. I conducted thorough error identification and quality control checks to detect inconsistencies, such as missing values, duplicates, and incorrect entries. Throughout the process, I collaborated with the client and important stakeholders to clarify anomalies and refine the dataset.
 
