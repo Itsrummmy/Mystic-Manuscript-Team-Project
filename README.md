@@ -37,7 +37,6 @@ This project encompassed a series of critical tasks, including rigorous data cle
 ## Tools Used
 
 * **SQL**: For exploratory data analysis and quality control checks.
-* **Word**: For the quality control check document.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
