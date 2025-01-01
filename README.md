@@ -2,8 +2,6 @@
 
 # Mystic Manuscript Project
 
-## Project 1 of the Digital Futures Academy
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
