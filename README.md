@@ -28,7 +28,7 @@
 <!-- PROJECT OVERVIEW -->
 ## Project Overview
 
-This project encompassed a series of critical tasks, including rigorous data cleaning to address issues such as missing values, duplicates, and incorrect entries. I implemented stringent quality control measures to ensure data accuracy. Throughout the project, I fostered collaborative relationships with the client and key stakeholders to clarify anomalies and refine the dataset. I meticulously documented the entire process, including detailed SQL code for table creation and quality control checks. Upon completion, I certified the dataset's readiness for analysis by completing a comprehensive Quality Control Form.
+This project encompassed a series of critical tasks, including rigorous data cleaning to address issues such as missing values and duplicate entries. I implemented stringent quality control measures to ensure data integrity. Throughout the project, I fostered collaborative relationships with the client and key stakeholders to clarify anomalies and refine the dataset. I meticulously documented the entire process, including detailed SQL code for table creation and quality control checks. Upon completion, I certified the dataset's readiness for analysis by completing a comprehensive Quality Control Form.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
