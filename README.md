@@ -45,10 +45,8 @@ This project encompassed a series of critical tasks, including rigorous data cle
 <!-- Deliverables -->
 ## Deliverables
 
-* Quality control form referencing the checks that have been carried out.
-* SQL code showcasing table creation, as well as any updated/alterations.
-* SQL code showcasing quality control checks. This excludes queries 1 - 7.
-* Queries 1 - 7 submitted via Git to evaluate correctness and perfect linting standards.
+* Quality Control Form for Ensuring Data Integrity and validity.
+* SQL code showing database creation and data integrity checks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,8 +55,8 @@ This project encompassed a series of critical tasks, including rigorous data cle
 <!-- Outcomes -->
 ## Outcomes
 
-* Table successfully loaded into SQL.
-* No issues with the quality control checks.
+* SQL databases successfully created from Excel file.
+* Quality control checks passed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,6 +65,6 @@ This project encompassed a series of critical tasks, including rigorous data cle
 <!-- Conclusion -->
 ## Conclusion
 
-This project highlights the critical role of data quality in data analytics. Through systematic processes and the application of SQL techniques, we prepared a robust dataset for Mystic Manuscripts to use for further analysis.
+This project demonstrates the importance of data quality in analytics. We used SQL to prepare a robust database for Mystic Manuscripts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
